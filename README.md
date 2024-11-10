@@ -1,5 +1,7 @@
 ## **Raksha: Your AI Cybersecurity Guardian**
 
+![image](https://github.com/themanavpaul/project-raksha/blob/main/public/raksha.png.jpg)
+
 **Introduction**
 
 Raksha is your AI-powered cybersecurity companion, dedicated to protecting you and your organization from the ever-evolving landscape of cyber threats. We empower you with the knowledge and tools to navigate the digital world securely and confidently. 
