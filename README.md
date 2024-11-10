@@ -27,6 +27,9 @@ Full Series : [Master GenAI](https://manavpaul.hashnode.dev/series/generative-ai
 
 Raksha is your AI-powered cybersecurity companion, dedicated to protecting you and your organization from the ever-evolving landscape of cyber threats. We empower you with the knowledge and tools to navigate the digital world securely and confidently. 
 
+## **How to Access Raksha**
+Raksha Portal : https://rakhshaai.netlify.app/
+
 ## **How Raksha Can Help You**
 
 * **Cybersecurity Education:**
