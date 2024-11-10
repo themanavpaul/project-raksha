@@ -56,6 +56,10 @@ Raksha is your AI-powered cybersecurity companion, dedicated to protecting you a
 ## **About Us**
 
 Developed by Manav Paul, a 24-year-old spiritual developer based in Chandigarh, India, Raksha is driven by the mission to empower individuals and organizations to navigate the digital world securely and confidently.
+<br>
+I'm [Manav Paul](https://linktr.ee/themanavpaul), a 24-year-old spiritual developer on a mission to demystify generative AI. Fascinated by its potential, I'm embarking on a 30-day journey to master this cutting-edge technology. This repository is my digital travelogue, where I'll share insights, experiments, and code as I unravel the secrets of generative AI.
+
+👨🏻‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/manav-paul/) and [X(Twitter)](https://x.com/themanavpaul).
 
 ## **Our Services**
 
